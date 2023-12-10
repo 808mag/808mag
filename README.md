@@ -1,5 +1,4 @@
-### Hi there 👋
-
+work in progress mag
 <!--
 **808mag/808mag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
