@@ -1,0 +1,19 @@
+idea namespace.studio:
+
+barra nav en medio
+
+(2) secciones: noticias y mag
+
+ORDENADOR:
+
+SECCION NOTICIAS:
+
+Seleccion izq (cambiar entre texto y portada), noticias derecha. 
+Las noticias se suben en HTMLs separados, y se cargan en la izquierda de la 
+página.
+
+SECCION MAG:
+
+Lista de cada issue donde cuando hovereas encima del issue, se ve la portada,
+en clickear se abre una pagina en cada mitad, en la barra del medio
+se puede elegir pasar de pagina, cambiar a otra seccion o de issue.   
