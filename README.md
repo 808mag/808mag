@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 work in progress mag
-=======
-### CTDS la empresa negroooooooo
-
->>>>>>> de68fff133b08166a8e88797827aec1de8df886a
 <!--
 **808mag/808mag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
